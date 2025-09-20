@@ -52,8 +52,3 @@ For this exercise marks will not depend on what numbers you get but on the proce
 ### Questions
 1. Use the Decision Tree model trained on the UCI-HAR dataset to predict the activities that you performed. Report the accuracy, precision, recall and confusion matrix of the model. You have three version of UCI dataset you can use a)Raw data from accelerometer, b)TSFEL featurised data, c)Features provided by author. Choose which version to use, ensuring that your test data is similar to your training data. How did the model perform? 
 2. Use the data you collected to predict the activities that you performed. Decide whether to apply preprocessing and featurization, and if so, choose the appropriate methods. How did the model perform? 
-
-# **Genral Instructions :**
-1. Show your results in a Jupyter Notebook or an MD file. If you opt for using an MD file, you should also include the code.
-2. You can use the scikit-learn implementation of Decision Tree for the Human Activity Recognition.
-
