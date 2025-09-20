@@ -39,7 +39,7 @@ We will use the raw accelerometer data within the inertial_signals folder. The p
 2. Train Decision Tree with varying depths (2-8) using all above 3 methods. Plot the accuracy of the model on test data vs the depth of the tree.
 3. Are there any participants/ activitivies where the Model performace is bad? If Yes, Why?
 
-## Task 3 : Data Collection in the Wild [2 marks]
+## Task 3 : Data Collection in the Wild 
 
 ## Task Description
 For this exercise marks will not depend on what numbers you get but on the process you followed Utilize apps like `Physics Toolbox Suite` from your smartphone to collect your data in .csv/.txt format. Ensure at least 15 seconds of data is collected, trimming edges to obtain 10 seconds of relevant data. Also record a video of yourself while recording data. This video will be required in some future assignments. Collect 3-5 samples per activity class.
