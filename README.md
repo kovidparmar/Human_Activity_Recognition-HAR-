@@ -46,4 +46,4 @@ These scripts generate train, test, and validation splits.
   Used Information Gain (Entropy/Gini Index) for splitting.
   Validated implementation using usage.py.
 # Note
-  We have done it in group of four
+  We have done it in group of three
